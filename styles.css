@@ -50,29 +50,32 @@ p, h1, h2, h3, h4, h5, h6 {
 body{
   width: 100vw;
   height: auto;
+
   display: flex;
   justify-content: center;
   align-items: center;
   position: relative;
+  
   background-color: var(--clr-light-pink);
   font-family: var(--ff-base);
   color: var(--clr-dark-purple);
 }
 .background{
   display: inline-block;
-  min-width: 100%;
-  min-height: 40%; 
   position: absolute;
   top: 0;
   left: 0;
   z-index: -1;
+
+  min-width: 100%;
+  min-height: 40%; 
 }
 picture img{
   width: 100%;
   height: auto;
+
   object-fit: cover; 
 }
-
 .faq__card{
   z-index: 1;
   width: 100%;
@@ -172,5 +175,5 @@ article{
   .faq__question{  
     justify-content: space-between; 
     align-items: center;
-  }
+  } 
 }
