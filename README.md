@@ -1,7 +1,3 @@
-# Frontend Mentor - FAQ accordion solution
-
-This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -16,9 +12,9 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
+
+A responsive and interactive FAQ Design Component
 
 ### The challenge
 
